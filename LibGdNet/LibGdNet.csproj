@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GdImage.cs" />
+    <Compile Include="GdImageHandle.cs" />
     <Compile Include="LibGd.cs" />
+    <Compile Include="PngThumbnailer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
